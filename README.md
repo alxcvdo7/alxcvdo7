@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sharon-Alexa:</h1>
-<h3 align="center">A passionate full-stack developer from Canada</h3>
+<h3 align="center">I am an aspiring full stack developer. Colombian currently living in Canada. I am interested to work on site or remote work as well as freelance work.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alxcvdo7&label=Profile%20views&color=0e75b6&style=flat" alt="alxcvdo7" /> </p>
 
