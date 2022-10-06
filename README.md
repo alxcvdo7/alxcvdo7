@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Home Away From Home](https://github.com/paullanza/home_away)
 
-- 🌱 I’m currently learning **React and Python**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **s.alexa.acevedo2@gmail.com**
 
