@@ -2,8 +2,6 @@
 
 <h3 align="center">I am an aspiring full stack developer living in Canada. I am interested to work on site or remote work as well as freelance work.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alxcvdo7&label=Profile%20views&color=0e75b6&style=flat" alt="alxcvdo7" /> </p>
-
 - 🔭 I’m currently working on [Home Away From Home](https://github.com/paullanza/home_away)
 
 - 🌱 I’m currently learning **React**
